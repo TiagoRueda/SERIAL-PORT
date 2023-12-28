@@ -1,0 +1,10 @@
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\bin\Debug\NVS_TESTE.exe.config
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\bin\Debug\NVS_TESTE.exe
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\bin\Debug\NVS_TESTE.pdb
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\NVS_TESTE.csproj.AssemblyReference.cache
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\NVS_TESTE.Form1.resources
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\NVS_TESTE.Properties.Resources.resources
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\NVS_TESTE.csproj.GenerateResource.cache
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\NVS_TESTE.csproj.CoreCompileInputs.cache
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\NVS_TESTE.exe
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\NVS_TESTE.pdb

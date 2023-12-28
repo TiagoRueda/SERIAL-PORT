@@ -1,0 +1,10 @@
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\SerialPort.csproj.AssemblyReference.cache
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\SerialPortTest.Form1.resources
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\SerialPort.csproj.GenerateResource.cache
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\bin\Debug\SerialPortTest.exe.config
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\bin\Debug\SerialPortTest.exe
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\bin\Debug\SerialPortTest.pdb
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\SerialPortTest.Properties.Resources.resources
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\SerialPortTest.exe
+C:\Users\Tiago.Rueda\source\repos\NVS_TESTE\NVS_TESTE\obj\Debug\SerialPortTest.pdb
